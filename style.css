@@ -1,0 +1,36 @@
+body{
+    background-size: cover; 
+  }
+
+.heading{
+    font-size: 22px;
+    margin: 0px;
+    width: 100%;
+    border-style:dashed;
+    background-color: aqua;
+    color:blue;
+    border-color: black;
+}
+
+.nota{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-style: dashed;
+    background-color: rgb(89, 95, 83);
+    color: blue;
+    border-color: black;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+}
